@@ -1,11 +1,11 @@
 # Caro_Game
 Đồ án môn học
-1 Giới thiệu
+- #1 Giới thiệu
 - Trong phần đồ án này ta sẽ phối hợp các kĩ thuật và cấu trúc dữ liệu cơ bản để xây dựng
 một trò chơi đơn giản, cờ caro.
 - Để thực hiện được đồ án này ta cần các kiến thức cơ bản như: xử lý tập tin, handle, cấu
 trúc dữ liệu mảng một/hai chiều…
-2 Kịch bản trò chơi
+- #2 Kịch bản trò chơi
 - Lúc đầu khi vào game sẽ xuất hiện bảng cờ caro, người chơi sẽ dùng các phím ‘W’, ‘A’,
 ‘S’, ‘D’ để điều chỉnh hướng di chuyển. Khi người chơi nhấn phím ‘enter’ thì sẽ xuất
 hiện dấu ‘X’ hoặc ‘O’ tùy vào lượt.
